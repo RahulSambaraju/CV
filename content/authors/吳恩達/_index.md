@@ -3,8 +3,8 @@
 title: Rahul Sambaraju
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rahul
+last_name: Sambaraju
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Social Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The University of Edinburgh
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
