@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Rahul Sambaraju
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Rahul
+last_name: Sambaraju
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor Social Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The University of Edinburgh
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social psychology, social exclusion, discursive approaches, race and racism, South Asia.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social psychology
+  - Discursive psychology
+  - Qualitative methods
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Social Psychology
+      institution: Queen Margaret University
+      year: 2014
+    - course: MSc in Psychological Research Methods
+      institution: The University of Edinburgh
       year: 2008
+    - course: Bachelor of Medicine; Bachelor of Surgery
+      institution: Dr NTR University of Health Sciences
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +44,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:leo.sambaraju@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/rahulvoy
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'leo.sambaraju@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +71,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
